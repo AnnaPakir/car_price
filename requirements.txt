@@ -3,3 +3,4 @@ streamlit==0.34.0
 pandas==2.2.2
 scikit-learn==1.2.2
 lightgbm==4.3.0 
+protobuf==3.20.1
