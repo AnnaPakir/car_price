@@ -18,6 +18,7 @@
 ![plot](https://github.com/AnnaPakir/car_price/blob/main/%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D0%BA.png)
 
 Были выявлены признаки, влияющие на стоимость автомобиля. Самое большое влияние оказывают система безопасности, тип кузова и тип двигателя автомобиля.
+
 ![pink](https://github.com/AnnaPakir/car_price/blob/main/sign.png)
 
 Создано приложение на Streamlit: [link](https://carprice-annapakir.streamlit.app/)
