@@ -1,5 +1,5 @@
 numpy==1.24.3
-streamlit==0.34.0
+streamlit==1.9.2
 pandas==2.2.2
 scikit-learn==1.2.2
 lightgbm==4.3.0 
