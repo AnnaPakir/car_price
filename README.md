@@ -16,6 +16,9 @@
 **Выводы:** Была создана модель с метрикой RMSE 3486.1 на тестовой выборке. Модель хорошо определяет стоимость некоторых автомобилей со средней ошибкой около 2000. Мало представленнные, или плохо представленные марки модель не определяет.
 ![plot](https://github.com/AnnaPakir/car_price/blob/main/%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D0%BA.png)
 
+Были выявлены признаки, влияющие на стоимость автомобиля:
+![pink](https://github.com/AnnaPakir/car_price/blob/main/sign.png)
+
 Создано приложение на Streamlit: [link](https://carprice-annapakir.streamlit.app/)
 
 ![plot](https://github.com/AnnaPakir/car_price/blob/main/Video.gif)
