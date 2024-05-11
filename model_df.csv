@@ -1,0 +1,803 @@
+,WMI,Manufacturer,marka
+0,AAA,Audi South Africa made by Volkswagen of South Africa,Audi
+1,AAV,Volkswagen South Africa,Volkswagen
+2,ABJ,Mitsubishi Colt & Triton pickups made by Mercedes-Benz South Africa 1994–2011,Mercedes
+3,ABJ,Mitsubishi Fuso made by Daimler Trucks & Buses Southern Africa,Mitsubishi
+4,ACV,Isuzu Motors South Africa 2018-,Isuzu
+5,AC5,Hyundai Automotive South Africa,Hyundai
+6,ADM,General Motors South Africa (includes Isuzu through 2018),Isuzu
+7,ADN,Nissan South Africa (Pty) Ltd.,Nissan
+8,ADR,Renault Sandero made by Nissan South Africa (Pty) Ltd.,Renault
+9,AFA,Ford Motor Company of Southern Africa & Samcor,Ford
+10,AFB,Mazda BT-50 made by Ford Motor Company of Southern Africa,Ford
+11,AHM,Honda Ballade made by Mercedes-Benz South Africa 1982–2000,Honda
+12,AHT,Toyota South Africa Motors (Pty.) Ltd.,Toyota
+13,BR1,Mercedes-Benz Algeria (SAFAV MB),Mercedes
+14,HES,"smart Automobile Co., Ltd. (Mercedes-Geely joint venture)",Geely
+15,JAA,Isuzu truck,Isuzu
+16,JAB,Isuzu car,Isuzu
+17,JAC,Isuzu SUV,Isuzu
+18,JAE,Acura SLX made by Isuzu,Isuzu
+19,JAL,Isuzu commercial trucks & Chevrolet commercial trucks made by Isuzu 2016+ & Hino S-series truck made by Isuzu (Incomplete Vehicle),Chevrolet
+20,JAM,Isuzu commercial trucks (Incomplete Vehicle),Isuzu
+21,JA3,Mitsubishi car,Mitsubishi
+22,JA4,Mitsubishi MPV/SUV,Mitsubishi
+23,JA7,Mitsubishi truck,Mitsubishi
+24,JB3,Dodge car made by Mitsubishi Motors,Dodge
+25,JB4,Dodge MPV/SUV made by Mitsubishi Motors,Dodge
+26,JB7,Dodge truck made by Mitsubishi Motors,Dodge
+27,JC0,Ford brand cars made by Mazda,Ford
+28,JC1,Fiat 124 Spider made by Mazda,Fiat
+29,JC2,Ford Courier made by Mazda,Ford
+30,JDA,Daihatsu,Daihatsu
+31,JD1,Daihatsu car,Daihatsu
+32,JD2,Daihatsu SUV,Daihatsu
+33,JD4,Daihatsu truck,Daihatsu
+34,JE3,Eagle car made by Mitsubishi Motors,Mitsubishi
+35,JE4,Mitsubishi Motors,Mitsubishi
+36,JF1,(Subaru) car,Subaru
+37,JF2,(Subaru) SUV,Subaru
+38,JF3,(Subaru) truck,Subaru
+39,JF4,Saab 9-2X made by Subaru,Subaru
+40,JG1,Chevrolet/Geo car made by Suzuki,Chevrolet
+41,JG7,Pontiac/Asuna car made by Suzuki for GM Canada,Suzuki
+42,JGC,Chevrolet/Geo SUV made by Suzuki (classified as a truck),Chevrolet
+43,JGT,GMC SUV made by Suzuki for GM Canada (classified as a truck),GMC
+44,"['JHF', 'JHG', 'JHL', 'JHM', 'JHN', 'JHZ', 'JH1', 'JH2', 'JH3', 'JH4', 'JH5']",Honda,Honda
+45,JHL,Honda MPV/SUV,Honda
+46,JHM,Honda car,Honda
+47,JH1,Honda truck,Honda
+48,JH2,Honda motorcycle/ATV,Honda
+49,JH3,Honda ATV,Honda
+50,JJ3,Chrysler brand car made by Mitsubishi Motors,Mitsubishi
+51,JKS,Suzuki Marauder 1600/Boulevard M95 motorcycle made by Kawasaki,Suzuki
+52,JK8,Suzuki QUV620F UTV made by Kawasaki,Suzuki
+53,JLF,Mitsubishi Fuso Truck & Bus Corp.,Mitsubishi
+54,JLS,Sterling Truck 360 made by Mitsubishi Fuso Truck & Bus Corp.,Mitsubishi
+55,JL5,Mitsubishi Fuso Truck & Bus Corp.,Mitsubishi
+56,JL6,Mitsubishi Fuso Truck & Bus Corp.,Mitsubishi
+57,JMA JMB,Mitsubishi Motors,Mitsubishi
+58,JMF,Mitsubishi Motors,Mitsubishi
+59,JMY,Mitsubishi Motors,Mitsubishi
+60,JMZ,Mazda for Europe export,Mazda
+61,JM0,Mazda for Oceania export,Mazda
+62,JM1,Mazda car,Mazda
+63,JM2,Mazda truck,Mazda
+64,JM3,Mazda MPV/SUV,Mazda
+65,JM6,Mazda,Mazda
+66,JM7,Mazda,Mazda
+67,JNA,Nissan Diesel/UD Trucks incomplete vehicle,Nissan
+68,JNC,Nissan Diesel/UD Trucks,Nissan
+69,JNE,Nissan Diesel/UD Trucks truck,Nissan
+70,JNK,Infiniti car,Infiniti
+71,JNR,Infiniti SUV,Infiniti
+72,JNX,Infiniti incomplete vehicle,Infiniti
+73,JN1,Nissan car & Infiniti car,Nissan
+74,JN3,Nissan incomplete vehicle,Nissan
+75,JN6,Nissan truck,Nissan
+76,JN8,Nissan MPV/SUV & Infiniti SUV,Nissan
+77,JP3,Plymouth car made by Mitsubishi Motors,Mitsubishi
+78,JP4,Plymouth MPV/SUV made by Mitsubishi Motors,Mitsubishi
+79,JP7,Plymouth truck made by Mitsubishi Motors,Mitsubishi
+80,JPC,Nissan Diesel/UD Trucks,Nissan
+81,JR2,Isuzu Oasis made by Honda,Honda
+82,JSA,Suzuki car & SUV '03 Kawasaki KFX400 ATV made by Suzuki,Suzuki
+83,JSK,Kawasaki KLX125/KLX125L motorcycle made by Suzuki,Suzuki
+84,JSL,'04-'06 Kawasaki KFX400 ATV made by Suzuki,Suzuki
+85,JS1,Suzuki motorcycle & Kawasaki KLX400S/KLX400SR motorcycle made by Suzuki,Suzuki
+86,JS2,Suzuki car,Suzuki
+87,JS3,Suzuki SUV,Suzuki
+88,JS4,Suzuki truck,Suzuki
+89,JTB,Toyota bus,Toyota
+90,JTD,Toyota car,Toyota
+91,JTE,Toyota MPV/SUV,Toyota
+92,JTF,Toyota van/truck,Toyota
+93,JTG,Toyota MPV/bus,Toyota
+94,JTH,Lexus car,Lexus
+95,JTJ,Lexus SUV,Lexus
+96,JTK,Toyota car,Toyota
+97,JTL,Toyota SUV,Toyota
+98,JTM,Toyota SUV,Toyota
+99,JTN,Toyota car,Toyota
+100,JTP,Toyota SUV,Toyota
+101,JT1,Toyota,Toyota
+102,JT2,Toyota car,Toyota
+103,JT3,Toyota MPV/SUV,Toyota
+104,JT4,Toyota truck,Toyota
+105,JT5,Toyota incomplete vehicle,Toyota
+106,JT6,Lexus SUV,Lexus
+107,JT8,Lexus car,Lexus
+108,JW6,Mitsubishi Fuso division of Mitsubishi Motors (through mid 2003),Mitsubishi
+109,KLA,Daewoo/GM Daewoo/GM Korea (Chevrolet/Alpheon)  from Bupyeong & Kunsan plants,Chevrolet
+110,KLY,Daewoo/GM Daewoo/GM Korea (Chevrolet) from Changwon plant,Chevrolet
+111,KL1,GM Daewoo/GM Korea (Chevrolet car),Chevrolet
+112,KL2,Daewoo/GM Daewoo (Pontiac),Pontiac
+113,KL4,GM Korea (Buick),Buick
+114,KL5,GM Daewoo (Suzuki),Suzuki
+115,KL6,GM Daewoo (GMC),GMC
+116,KL7,GM Daewoo/GM Korea (Chevrolet MPV/SUV (Post-2000)),Chevrolet
+117,KL8,GM Daewoo/GM Korea (Chevrolet car (Spark)),Chevrolet
+118,KM,Hyundai,Hyundai
+119,KMC,Hyundai commercial truck,Hyundai
+120,KME,Hyundai commercial truck (semi-tractor),Hyundai
+121,KMF,Hyundai van & commercial truck & Bering Truck,Hyundai
+122,KMH,Hyundai car,Hyundai
+123,KMJ,Hyundai minibus/bus,Hyundai
+124,KM8,Hyundai SUV,Hyundai
+125,KNA,Kia car,Kia
+126,KNC,Kia truck,Kia
+127,KND,Kia MPV/SUV & Hyundai Entourage,Hyundai
+128,KNE,Kia for Europe export,Kia
+129,KNF,"Kia, special vehicles",Kia
+130,KNG,Kia minibus/bus,Kia
+131,KNJ,Ford Festiva & Aspire made by Kia,Ford
+132,KNM,Renault Samsung Motors & Nissan Rogue made by Renault Samsung,Renault
+133,KPH,Mitsubishi Precis,Mitsubishi
+134,LAL,Sundiro Honda Motorcycle,Honda
+135,LA9/LC0,BYD,BYD
+136,LBE,Beijing Hyundai,Hyundai
+137,LBV,BMW Brilliance,BMW
+138,LB2,Geely Motorcycles,Geely
+139,LB3,Geely Automobile,Geely
+140,LC6,Changzhou Haojue Suzuki Motorcycle Co. Ltd.,Suzuki
+141,LDC,"Dongfeng Peugeot Citroen Automobile Co., Ltd. (DPCA)",Citroen
+142,LDP,"Voyah, Dongfeng",Dongfeng
+143,LET,"Jiangling-Isuzu Motors, China",Isuzu
+144,LE4,Beijing Benz & Beijing Benz-Daimler Chrysler Automotive Co.,Chrysler
+145,LFV,"FAW-Volkswagen, China",Volkswagen
+146,LGA,"Dongfeng Commercial Vehicle Co., Ltd. trucks",Dongfeng
+147,LGB,Dongfeng Nissan,Nissan
+148,LGB,"Dongfeng Commercial Vehicle Co., Ltd. buses",Dongfeng
+149,LGG,Dongfeng Liuzhou Motor,Dongfeng
+150,LGJ,Dongfeng Fengshen (Aeolus),Dongfeng
+151,LGX,BYD Auto,BYD
+152,LHG,Guangzhou Honda,Honda
+153,LJD,Dongfeng Yueda Kia,Kia
+154,LJN,Zhengzhou Nissan,Nissan
+155,LJU,Lotus/Geely,Geely
+156,LJX,JMC Ford,Ford
+157,LJ1,"JAC, China",JAC
+158,LL6,"GAC Mitsubishi Motors Co., Ltd. (formerly Hunan Changfeng)",Mitsubishi
+159,LMC,Suzuki Hong Kong (motorcycles),Suzuki
+160,LNB,BAIC Motor,BAIC
+161,LNP,NAC MG UK Limited & Nanjing Fiat Automobile,Fiat
+162,LPA,Changan PSA (DS Automobiles),Changan
+163,LPE,BYD Auto,BYD
+164,LRB,SAIC General Motors Buick,Buick
+165,LRD,"Beijing Foton Daimler Automotive Co., Ltd. Auman trucks",Foton
+166,LRE,SAIC General Motors Cadillac,Cadillac
+167,LRW,"Tesla, Inc. (Gigafactory Shanghai)",Tesla
+168,LSG,SAIC General Motors Chevrolet,Chevrolet
+169,LSJ,SAIC MG & SAIC Roewe & IM Motors,MG
+170,LSV,"SAIC Volkswagen, China",Volkswagen
+171,LTN,Soueast built Chrysler & Dodge vehicles,Dodge
+172,LTV,Toyota Tian Jin,Toyota
+173,LUC,Honda Automobile (China),Honda
+174,LUD,Dongfeng Nissan Diesel Motor Co Ltd.,Nissan
+175,LUX,Dongfeng Yulon Motor Co. Ltd.,Dongfeng
+176,LVA,Foton Motor,Foton
+177,LVB,Foton Motor,Foton
+178,LVC,Foton Motor,Foton
+179,LVF,Changhe Suzuki,Suzuki
+180,LVG,GAC Toyota,Toyota
+181,LVH,Dongfeng Honda,Honda
+182,LVM,Chery Commercial Vehicle,Chery
+183,LVR,Changan Mazda,Changan
+184,LVS,Changan Ford & Changan Ford Mazda,Ford
+185,"LVT, LVV",Chery Automobile,Chery
+186,LVY,Volvo Cars Daqing factory,Volvo
+187,LVZ,Dongfeng Sokon Motor Company (DFSK),Dongfeng
+188,LYV,Volvo Cars Chengdu factory & Luqiao factory,Volvo
+189,LZE,"Isuzu Guangzhou, China",Isuzu
+190,LZU,Guangzhou Isuzu Bus,Isuzu
+191,LZW,SAIC GM Wuling,Wuling
+192,L2C,Chery Jaguar Land Rover,Chery
+193,L6T,"Geely, Lynk & Co, Zeekr",Geely
+194,MAH,Fiat India Automobiles Pvt. Ltd,Fiat
+195,MAJ,Ford India,Ford
+196,MAK,Honda Cars India,Honda
+197,MAL,Hyundai Motor India,Hyundai
+198,MA3,Maruti Suzuki India,Suzuki
+199,MA7,Hindustan Motors Ltd & Mitsubishi Motors & Isuzu models made by Hindustan Motors,Mitsubishi
+200,MBH,Nissan Pixo made by Maruti Suzuki India Limited,Nissan
+201,MBJ,Toyota Kirloskar Motor Pvt. Ltd.,Toyota
+202,MBR,Mercedes-Benz India,Mercedes
+203,MB8,Suzuki Motorcycle India Limited,Suzuki
+204,MC2,Volvo Eicher commercial vehicles limited.,Volvo
+205,MDH,Nissan Motor India Pvt Ltd.,Nissan
+206,MEE,Renault India Private Limited,Renault
+207,MEX,Škoda Auto Volkswagen India Pvt. Ltd. 2015 on,Volkswagen
+208,ME4,Honda Motorcycle and Scooter India,Honda
+209,MZB,Kia India Pvt. Ltd.,Kia
+210,MZ7,MG Motor India Pvt. Ltd.,MG
+211,M3G,Isuzu Motors India,Isuzu
+212,MHF,Toyota Indonesia (PT Toyota Motor Manufacturing Indonesia),Toyota
+213,MHK,PT Astra Daihatsu Motor (includes Toyotas made by Astra Daihatsu),Daihatsu
+214,MHL,PT Mercedes-Benz Indonesia,Mercedes
+215,MHR,Honda Indonesia (PT Honda Prospect Motor) (car),Honda
+216,MHY,PT Suzuki Indomobil Motor,Suzuki
+217,MH1,PT Astra Honda Motor (motorcycle),Honda
+218,MK2,PT Mitsubishi Motors Krama Yudha Indonesia,Mitsubishi
+219,MK3,PT SGMW Motor Indonesia (Wuling),Wuling
+220,MLC,"Thai Suzuki Motor Co., Ltd.",Suzuki
+221,MLH,Honda Thailand (motorcycle),Honda
+222,ML3,Mitsubishi Motors (Thailand),Mitsubishi
+223,MMA,Mitsubishi Motors (Thailand),Mitsubishi
+224,MMB,Mitsubishi Motors (Thailand),Mitsubishi
+225,MMC,Mitsubishi Motors (Thailand),Mitsubishi
+226,MMD,Mitsubishi Motors (Thailand),Mitsubishi
+227,MMF,BMW Thailand,BMW
+228,MML,MG Thailand (SAIC-CP),MG
+229,MMM,Chevrolet Thailand,Chevrolet
+230,MMR,Subaru Thailand,Subaru
+231,MMS,Suzuki Thailand,Suzuki
+232,MMT,Mitsubishi Motors (Thailand),Mitsubishi
+233,"MM0, MM6, MM7, MM8",Mazda Thailand (Ford-Mazda AutoAlliance Thailand plant),Ford
+234,MNA,Ford Thailand (Ford-Mazda AutoAlliance Thailand plant) for Australia/New Zealand export,Ford
+235,MNB,Ford Thailand (Ford-Mazda AutoAlliance Thailand plant) for other right-hand drive markets,Ford
+236,MNC,Ford Thailand (Ford-Mazda AutoAlliance Thailand plant) for left-hand drive markets,Ford
+237,MNT,Nissan Thailand,Nissan
+238,MPA,Isuzu Thailand,Isuzu
+239,MPB,Ford Thailand (Ford Thailand Manufacturing plant),Ford
+240,MP1,Isuzu Thailand,Isuzu
+241,MP2,"Mazda BT-50 pickup built by Isuzu Motors (Thailand) Co., Ltd.",Isuzu
+242,MP5,Foton Motor Thailand,Foton
+243,MRH,Honda Thailand (car),Honda
+244,MR0,Toyota Thailand,Toyota
+245,MR1,Toyota Thailand,Toyota
+246,MR2,Toyota Thailand (Gateway plant),Toyota
+247,MS3,"Suzuki Myanmar Motor Co., Ltd.",Suzuki
+248,MX3,Hyundai Trans Auto,Hyundai
+249,NAA,Iran Khodro (Peugeot Iran),Peugeot
+250,NFB,Honda Atlas Cars Pakistan Ltd.,Honda
+251,NLA,Honda Turkiye A.S. cars,Honda
+252,NLE,Mercedes-Benz Türk Truck,Mercedes
+253,NLH,Hyundai Assan Otomotiv car/SUV,Hyundai
+254,NLJ,Hyundai Assan Otomotiv van,Hyundai
+255,NMB,Mercedes-Benz Türk A.S. Buses,Mercedes
+256,NMH,Honda Anadolu motorcycle,Honda
+257,NMT,Toyota Motor Manufacturing Turkey,Toyota
+258,NM0,Ford Otosan,Ford
+259,NM1,Oyak Renault Otomobil Fabrikaları A.Ş.,Renault
+260,NNA,Anadolu Isuzu,Isuzu
+261,PAB,Isuzu Philippines Corporation,Isuzu
+262,PAD,Honda Cars Philippines,Honda
+263,PE1,Ford Motor Company Philippines,Ford
+264,PE3,Mazda Philippines made by Ford Motor Company Philippines,Ford
+265,PL8,Hyundai/Inokom,Hyundai
+266,PLP,Subaru,Subaru
+267,PLZ,Isuzu Malaysia,Isuzu
+268,PMH,Honda car,Honda
+269,PMK,Honda Boon Siew motorcycle,Honda
+270,PM1,BMW,BMW
+271,PNA,Naza/Kia/Peugeot,Kia
+272,PNV,Volvo Car Manufacturing Malaysia,Volvo
+273,PN1,Toyota,Toyota
+274,PN2,Toyota,Toyota
+275,PN8,Nissan,Nissan
+276,PPP,Suzuki,Suzuki
+277,PPV,Volkswagen,Volkswagen
+278,PP1,Mazda,Mazda
+279,PP3,Hyundai,Hyundai
+280,PRH,Chery,Chery
+281,PR8,Ford,Ford
+282,LFA,Ford Lio Ho Motor Co Ltd. old designation,Ford
+283,LM1,Tai Ling Motor Co Ltd. old designation (Suzuki motorcycle made by Tai Ling),Suzuki
+284,LM4,Tai Ling Motor Co Ltd. old designation (Suzuki ATV made by Tai Ling),Suzuki
+285,LN1,Tai Ling Motor Co Ltd. old designation (Suzuki motorcycle made by Tai Ling),Suzuki
+286,RHA,Ford Lio Ho Motor Co Ltd. new designation,Ford
+287,RKL,Kuozui Motors (Toyota),Toyota
+288,RKT,Honda Taiwan,Honda
+289,RK7,Kawasaki ATV made by Tai Ling Motor Co Ltd (rebadged Suzuki ATV) new designation,Suzuki
+290,RLA,Vina Star Motors Corp. – Mitsubishi,Mitsubishi
+291,RLE,Isuzu Vietnam Co.,Isuzu
+292,RLH,Honda Vietnam Co. Ltd.,Honda
+293,RLM,Mercedes-Benz Vietnam,Mercedes
+294,RL0,Ford Vietnam,Ford
+295,RL4,Toyota Motor Vietnam,Toyota
+296,SAD,"Jaguar SUV (E-Pace, F-Pace, I-Pace)",Jaguar
+297,SAH,Honda made by Austin Rover Group,Honda
+298,SAJ,Jaguar passenger car,Jaguar
+299,SAL,Land Rover,Land Rover
+300,SAR,Rover & MG Rover Group,MG
+301,SA9/130,MG Sport and Racing,MG
+302,SBC,Iveco Ford Truck,Ford
+303,SB1,Toyota Motor Manufacturing UK,Toyota
+304,SCV,Volvo Truck & Bus Scotland,Volvo
+305,SDB,Peugeot UK (formerly Talbot),Peugeot
+306,SDF,Dodge Trucks – UK 1981–1984,Dodge
+307,SDG,Renault Trucks Industries 1985–1992,Renault
+308,SDP,NAC MG UK & MG Motor UK Ltd.,MG
+309,SFA,Ford UK,Ford
+310,SFZ,Tesla Roadster made by Lotus,Tesla
+311,SHH,Honda UK passenger car,Honda
+312,SHS,Honda UK SUV,Honda
+313,SJK,Nissan Motor Manufacturing UK - Infiniti,Nissan
+314,SJN,Nissan Motor Manufacturing UK - Nissan,Nissan
+315,SUF,Fiat Auto Poland,Fiat
+316,TMA,Hyundai Motor Manufacturing Czech,Hyundai
+317,TMC,Hyundai Motor Manufacturing Czech,Hyundai
+318,TRU,Audi Hungary,Audi
+319,TSM,Suzuki Hungary,Suzuki
+320,TW1,Toyota Caetano Portugal,Toyota
+321,TW2,Ford Portugal,Ford
+322,TYA,Mitsubishi Fuso Truck and Bus Corp. Portugal,Mitsubishi
+323,TYB,Mitsubishi Fuso Truck and Bus Corp. Portugal,Mitsubishi
+324,UN1,Ford Ireland,Ford
+325,UU1,Dacia (Romania),Dacia
+326,U5Y,Kia Motors Slovakia,Kia
+327,U6Y,Kia Motors Slovakia,Kia
+328,VF1,Renault & Eagle Medallion made by Renault,Renault
+329,VF2,Renault Trucks,Renault
+330,VF3,Peugeot,Peugeot
+331,VF6,Renault Trucks,Renault
+332,VGA,Peugeot Motocycles,Peugeot
+333,VG6,Renault Trucks & Mack Trucks medium duty trucks made by Renault Trucks,Renault
+334,VG7,Renault Trucks,Renault
+335,VG8,Renault Trucks,Renault
+336,VMK,Renault Sport Spider,Renault
+337,VN1,Renault SOVAB (France),Renault
+338,VNK,Toyota Motor Manufacturing France,Toyota
+339,VNV,Nissan,Nissan
+340,VR3,Peugeot,Peugeot
+341,VXE,Opel Automobile Gmbh/Vauxhall van,Opel
+342,VXF,Fiat van,Fiat
+343,VXK,Opel Automobile Gmbh/Vauxhall car/SUV,Opel
+344,VSA,Mercedes-Benz Spain,Mercedes
+345,VSE,Suzuki Spain (Santana Motors),Suzuki
+346,VSK,"Nissan Motor Iberica SA, Nissan passenger car/MPV/van/SUV/pickup & Ford Maverick 1993–1999",Ford
+347,VSS,SEAT/Cupra,SEAT
+348,VSX,Opel Spain,Opel
+349,VS5,Renault Spain,Renault
+350,VS6,Ford Spain,Ford
+351,VS8,Peugeot Spain,Peugeot
+352,VTD,Montesa Honda (Honda Montesa motorcycle models),Honda
+353,VTM,Montesa Honda (Honda motorcycle models),Honda
+354,VTT,Suzuki Spain (motorcycles),Suzuki
+355,VWA,"Nissan Vehiculos Industriales SA, Nissan Commercial Vehicles",Nissan
+356,VWV,Volkswagen Spain,Volkswagen
+357,WAC,Audi/Porsche RS 2 Avant,Audi
+358,WAU,Audi car,Audi
+359,WA1,Audi SUV,Audi
+360,WBA,BMW car,BMW
+361,WBS,BMW M car,BMW
+362,WBX,BMW SUV,BMW
+363,WBY,BMW i car,BMW
+364,WB1,BMW Motorrad,BMW
+365,WB3,BMW Motorrad Motorcycles made in India by TVS,BMW
+366,WB4,BMW Motorrad Motorscooters made in China by Loncin,BMW
+367,WB5,BMW i SUV,BMW
+368,WDA,Mercedes-Benz incomplete vehicle (North America),Mercedes
+369,WDB,Mercedes-Benz & Maybach,Mercedes
+370,WDC,Mercedes-Benz SUV,Mercedes
+371,WDD,Mercedes-Benz car,Mercedes
+372,WDF,Mercedes-Benz van/pickup (French & Spanish built models – Citan & Vito & X-Class),Mercedes
+373,WDW,"Dodge Sprinter ""bus"" (van with more than 3 rows of seats) 2008–2009",Dodge
+374,WDX,Dodge Sprinter incomplete vehicle 2005–2009,Dodge
+375,WDZ,"Mercedes-Benz ""bus"" (van with more than 3 rows of seats) (North America)",Mercedes
+376,WD0,Dodge Sprinter truck (cargo van with 1 row of seats) 2005–2009,Dodge
+377,WD1,Freightliner Sprinter 2002 & Sprinter (Dodge or Freightliner) 2003–2005 incomplete vehicle,Dodge
+378,WD2,Freightliner Sprinter 2002 & Sprinter (Dodge or Freightliner) 2003–2005 truck (cargo van with 1 row of seats),Dodge
+379,WD3,Mercedes-Benz truck (cargo van with 1 row of seats) (North America),Mercedes
+380,WD4,Mercedes-Benz MPV (van with 2 or 3 rows of seats) (North America),Mercedes
+381,WD5,Freightliner Sprinter 2002 & Sprinter (Dodge or Freightliner) 2003–2005 MPV (van with 2 or 3 rows of seats),Dodge
+382,WD8,Dodge Sprinter MPV (van with 2 or 3 rows of seats) 2005–2009,Dodge
+383,WEB,Evobus GmbH (Mercedes-Benz buses),Mercedes
+384,WF0,Ford Germany,Ford
+385,WMW,MINI car,MINI
+386,WMX,Mercedes-AMG used for Mercedes-Benz SLS AMG & Mercedes-AMG GT (not used in North America),MG
+387,WMZ,MINI SUV,MINI
+388,WUA,Audi Sport GmbH (formerly quattro GmbH) car,Audi
+389,WU1,Audi Sport GmbH (formerly quattro GmbH) SUV,Audi
+390,WVG,Volkswagen MPV/SUV,Volkswagen
+391,WVW,Volkswagen car,Volkswagen
+392,WV1,Volkswagen Commercial Vehicles,Volkswagen
+393,WV2,Volkswagen Commercial Vehicles Bus/Van,Volkswagen
+394,WV3,Volkswagen Trucks,Volkswagen
+395,WZ1,Toyota Supra (Fifth generation),Toyota
+396,W0L,Adam Opel AG/Vauxhall & Holden,Opel
+397,W0V,Opel Automobile Gmbh/Vauxhall & Holden (since 2017),Opel
+398,W04,Buick Regal & Buick Cascada,Buick
+399,W06,Cadillac Catera,Cadillac
+400,W1K,Mercedes-Benz car,Mercedes
+401,W1N,Mercedes-Benz SUV,Mercedes
+402,W1T,Mercedes-Benz truck,Mercedes
+403,W1V,Mercedes-Benz van,Mercedes
+404,W1W,Mercedes-Benz MPV (van with 2 or 3 rows of seats) (North America),Mercedes
+405,W1X,Mercedes-Benz incomplete vehicle (North America),Mercedes
+406,W1Y,Mercedes-Benz truck (cargo van with 1 row of seats) (North America),Mercedes
+407,W1Z,"Mercedes-Benz ""bus"" (van with more than 3 rows of seats) (North America)",Mercedes
+408,XLB,Volvo Car B.V./NedCar B.V. (Volvo Cars),Volvo
+409,XLC,Ford Netherlands,Ford
+410,XMC,NedCar B.V. Mitsubishi Motors,Mitsubishi
+411,XNC,NedCar B.V. Mitsubishi Motors (Colt CZC convertible),Mitsubishi
+412,XP7,Tesla Europe (based in the Netherlands) (Gigafactory Berlin-Brandenburg),Tesla
+413,XUU,"AvtoTor (Russia, Chevrolet SKD)",Chevrolet
+414,XW7,Toyota Motor Manufacturing Russia,Toyota
+415,XW8,Volkswagen Group Russia,Volkswagen
+416,XWE,"AvtoTor (Russia, Hyundai-Kia SKD)",Hyundai
+417,XWF,"AvtoTor (Russia, Chevrolet Tahoe/Opel/Cadillac/Hummer SKD)",Chevrolet
+418,X4X,"AvtoTor (Russia, BMW SKD)",BMW
+419,X7L,Renault AvtoFramos (Russia),Renault
+420,X7M,Hyundai & Vortex (rebadged Chery) made by TagAZ (Russia),Chery
+421,X9F,Ford Motor Company ZAO,Ford
+422,X9P,Volvo Vostok ZAO Volvo Trucks,Volvo
+423,YAR,Toyota Motor Europe (based in Belgium) used for Toyota ProAce & Toyota ProAce City,Toyota
+424,YBW,Volkswagen Belgium,Volkswagen
+425,YB1,Volvo Trucks Belgium (truck),Volvo
+426,YB2,Volvo Trucks Belgium (bus chassis),Volvo
+427,YB3,Volvo Trucks Belgium (incomplete vehicle),Volvo
+428,YCM,Mazda Motor Europe,Mazda
+429,YC1,Honda Belgium NV (motorcycle),Honda
+430,YSC,Cadillac BLS (made by Saab),Cadillac
+431,YV1,Volvo cars,Volvo
+432,YV2,Volvo trucks,Volvo
+433,YV3,Volvo buses and bus chassis,Volvo
+434,YV4,Volvo SUV,Volvo
+435,YV5,Volvo Trucks incomplete vehicle,Volvo
+436,Y4F,Ford Belarus,Ford
+437,Y4K,Geely (Belarus),Geely
+438,ZAC,"Jeep, Dodge Hornet",Dodge
+439,ZC2,Chrysler TC by Maserati,Chrysler
+440,ZDC,Honda Italia Industriale SpA,Honda
+441,ZFA,Fiat,Fiat
+442,ZFB,Fiat MPV/SUV,Fiat
+443,ZFC,Fiat V.I.,Fiat
+444,ZKH,Husqvarna Motorcycles Srl Under BMW ownership,BMW
+445,Z6F,Ford Sollers (Russia),Ford
+446,Z8N,Nissan Manufacturing Rus (Russia),Nissan
+447,Z9M,Mercedes-Benz Trucks Vostok (Russia),Mercedes
+448,Z94,Hyundai Motor Manufacturing Rus (Russia),Hyundai
+449,1A4 1A8,Chrysler brand MPV/SUV 2006–2009 only,Chrysler
+450,1AM,American Motors Corporation car & Renault Alliance 1983 only,Renault
+451,1B3,Dodge car 1981–2011,Dodge
+452,1B4,Dodge MPV/SUV 1981–2002,Dodge
+453,1B6,Dodge incomplete vehicle 1981–2002,Dodge
+454,1B7,Dodge truck 1981–2002,Dodge
+455,1C3,Chrysler brand car 1981–2011,Chrysler
+456,1C3,Chrysler Group (all brands) car (including Lancia) 2012-,Chrysler
+457,1C4,Chrysler brand MPV 1990–2005,Chrysler
+458,1C4,Chrysler Group (all brands) MPV 2012–,Chrysler
+459,1C6,Chrysler Group (all brands) truck 2012–,Chrysler
+460,1C8,Chrysler brand MPV 2001–2005,Chrysler
+461,1D3,Dodge truck 2002–2009,Dodge
+462,1D4,Dodge MPV/SUV 2003–2011 only,Dodge
+463,1D7,Dodge truck 2002–2011,Dodge
+464,1D8,Dodge MPV/SUV 2003–2009 only,Dodge
+465,1FA,Ford car,Ford
+466,1FB,"Ford ""bus"" (van with more than 3 rows of seats)",Ford
+467,1FC,Ford stripped chassis made by Ford,Ford
+468,1FD,Ford incomplete vehicle,Ford
+469,1FM,Ford MPV/SUV,Ford
+470,1FT,Ford truck,Ford
+471,1F1,Ford SUV - Limousine (through 2009),Ford
+472,1F6,Ford stripped chassis made by Detroit Chassis LLC,Ford
+473,1G0,"GMC ""bus"" (van with more than 3 rows of seats) 1981–1986",GMC
+474,1G0,GMC Rapid Transit Series (RTS) bus 1981–1984,GMC
+475,1G0,Opel car 2007–2017,Opel
+476,1G1,Chevrolet car,Chevrolet
+477,1G2,Pontiac car,Pontiac
+478,1G4,Buick car,Buick
+479,1G5,GMC MPV/SUV 1981–1986,GMC
+480,1G6,Cadillac car,Cadillac
+481,1G7,Pontiac car only sold by GM Canada,Pontiac
+482,1G8,Chevrolet MPV/SUV 1981–1986,Chevrolet
+483,1GA,"Chevrolet ""bus"" (van with more than 3 rows of seats)",Chevrolet
+484,1GB,Chevrolet incomplete vehicles,Chevrolet
+485,1GC,Chevrolet truck,Chevrolet
+486,1GD,GMC incomplete vehicles,GMC
+487,1GE,Cadillac incomplete vehicle,Cadillac
+488,1GG,Isuzu pickup trucks made by GM,Isuzu
+489,1GH,GMC Rapid Transit Series (RTS) bus 1985–1986,GMC
+490,1GJ,"GMC ""bus"" (van with more than 3 rows of seats) 1987–",GMC
+491,1GK,GMC MPV/SUV 1987–,GMC
+492,1GM,Pontiac MPV,Pontiac
+493,1GN,Chevrolet MPV/SUV 1987-,Chevrolet
+494,1GT,GMC Truck,GMC
+495,1GY,Cadillac SUV,Cadillac
+496,1HA,Chevrolet incomplete vehicles made by Navistar International,Chevrolet
+497,1HF,Honda motorcycle/ATV/UTV,Honda
+498,1HG,Honda car made by Honda of America Mfg. in Ohio,Honda
+499,1HT,"International Trucks & Caterpillar Trucks & Chevrolet Silverado 4500HD, 5500HD, 6500HD incomplete vehicle",Chevrolet
+500,1JC,Jeep SUV 1981–1988 (using AMC-style VIN structure),Jeep
+501,1JT,Jeep truck 1981–1988 (using AMC-style VIN structure),Jeep
+502,1J4,Jeep SUV 1989–2011 (using Chrysler-style VIN structure),Jeep
+503,1J7,Jeep truck 1989–1992 (using Chrysler-style VIN structure),Jeep
+504,1J8,Jeep SUV 2002–2011 (using Chrysler-style VIN structure),Jeep
+505,1LJ,Lincoln incomplete vehicle,Lincoln
+506,1LN,Lincoln car,Lincoln
+507,1L1,Lincoln car – limousine,Lincoln
+508,1MB,Mercedes-Benz Truck Co.,Mercedes
+509,1N4,Nissan car,Nissan
+510,1N6,Nissan truck,Nissan
+511,1NX,Toyota car made by NUMMI,Toyota
+512,1UT,Jeep DJ made by AM General,Jeep
+513,1VW,Volkswagen car,Volkswagen
+514,1V1,Volkswagen truck,Volkswagen
+515,1V2,Volkswagen SUV,Volkswagen
+516,1XM,Renault Alliance/GTA/Encore 1984–1987,Renault
+517,1Y1,Chevrolet/Geo car made by NUMMI,Chevrolet
+518,1YV,Mazda made by AutoAlliance International,Mazda
+519,1ZV,Ford made by AutoAlliance International,Ford
+520,1Z3 1Z7,Mitsubishi Raider,Mitsubishi
+521,19U,Acura car made by Honda of America Mfg. in Ohio,Honda
+522,19V,Acura car made by Honda Manufacturing of Indiana,Honda
+523,19X,Honda car made by Honda Manufacturing of Indiana,Honda
+524,2A4 2A8,Chrysler brand MPV/SUV 2006–2011 only,Chrysler
+525,2BC,Jeep Wrangler (YJ) 1987–1988 (using AMC-style VIN structure),Jeep
+526,2B3,Dodge car 1981–2011,Dodge
+527,2B4,Dodge MPV 1981–2002,Dodge
+528,2B5,"Dodge ""bus"" (van with more than 3 rows of seats) 1981–2002",Dodge
+529,2B6,Dodge incomplete vehicle 1981–2002,Dodge
+530,2B7,Dodge truck 1981–2002,Dodge
+531,2C1,Geo/Chevrolet car made by CAMI Automotive,Chevrolet
+532,2C3,Chrysler brand car 1981–2011,Chrysler
+533,2C3,Chrysler Group (all brands) car (including Lancia) 2012-,Chrysler
+534,2C4,Chrysler brand MPV/SUV 2000–2005,Chrysler
+535,2C4,Chrysler Group (all brands) MPV (including Lancia & VW) 2012-,Chrysler
+536,2C7,Pontiac car made by CAMI Automotive only sold by GM Canada,Pontiac
+537,2C8,Chrysler brand MPV/SUV 2001–2005,Chrysler
+538,2CG,Asüna/Pontiac SUV made by CAMI Automotive only sold by GM Canada,Pontiac
+539,2CK,GMC Tracker SUV made by CAMI Automotive only sold by GM Canada 1990–1991 only,GMC
+540,2CK,Pontiac Torrent SUV made by CAMI Automotive 2006–2009 only,Pontiac
+541,2CN,Geo/Chevrolet SUV made by CAMI Automotive 1990–2011 only,Chevrolet
+542,2CT,GMC Terrain SUV made by CAMI Automotive 2010–2011 only,GMC
+543,2D4,Dodge MPV 2003–2011 only,Dodge
+544,2D6,Dodge incomplete vehicle 2003,Dodge
+545,2D7,Dodge truck 2003,Dodge
+546,2D8,Dodge MPV 2003–2011 only,Dodge
+547,2E3,Eagle car 1989–1997 (using Chrysler-style VIN structure),Chrysler
+548,2FA,Ford car,Ford
+549,2FM,Ford MPV/SUV,Ford
+550,2FT,Ford truck,Ford
+551,2G0,"GMC ""bus"" (van with more than 3 rows of seats) 1981–1986",GMC
+552,2G1,Chevrolet car,Chevrolet
+553,2G2,Pontiac car,Pontiac
+554,2G4,Buick car,Buick
+555,2G5,GMC MPV 1981–1986,GMC
+556,2G6,Cadillac car,Cadillac
+557,2G7,Pontiac car only sold by GM Canada,Pontiac
+558,2G8,Chevrolet MPV 1981–1986,Chevrolet
+559,2GA,"Chevrolet ""bus"" (van with more than 3 rows of seats)",Chevrolet
+560,2GB,Chevrolet incomplete vehicles,Chevrolet
+561,2GC,Chevrolet truck,Chevrolet
+562,2GD,GMC incomplete vehicles,GMC
+563,2GE,Cadillac incomplete vehicle,Cadillac
+564,2GH,GMC GM New Look bus & GM Classic series bus,GMC
+565,2GJ,"GMC ""bus"" (van with more than 3 rows of seats) 1987–",GMC
+566,2GK,GMC MPV/SUV 1987–,GMC
+567,2GN,Chevrolet MPV/SUV 1987-,Chevrolet
+568,2GT,GMC truck,GMC
+569,2HG,Honda car made by Honda of Canada Manufacturing,Honda
+570,2HH,Acura car made by Honda of Canada Manufacturing,Honda
+571,2HJ,Honda truck made by Honda of Canada Manufacturing,Honda
+572,2HK,Honda MPV/SUV made by Honda of Canada Manufacturing,Honda
+573,2HM,Hyundai Canada,Hyundai
+574,2HN,Acura SUV made by Honda of Canada Manufacturing,Honda
+575,2J4,Jeep Wrangler (YJ) 1989–1992 (using Chrysler-style VIN structure),Jeep
+576,2L1,Lincoln incomplete vehicle – limo,Lincoln
+577,2LJ,Lincoln incomplete vehicle – hearse,Lincoln
+578,2LM,Lincoln SUV,Lincoln
+579,2LN,Lincoln car,Lincoln
+580,2S2,Suzuki car made by CAMI Automotive,Suzuki
+581,2S3,Suzuki SUV made by CAMI Automotive,Suzuki
+582,2T1,Toyota car made by TMMC,Toyota
+583,2T2,Lexus SUV made by TMMC,Lexus
+584,2T3,Toyota SUV made by TMMC,Toyota
+585,2V4,Volkswagen Routan made by Chrysler Canada,Volkswagen
+586,2V8,Volkswagen Routan made by Chrysler Canada,Volkswagen
+587,3A4 3A8,Chrysler brand MPV 2006–2010 only,Chrysler
+588,3B3,Dodge car 1981–2011,Dodge
+589,3B4,Dodge SUV 1986–1993,Dodge
+590,3B6,Dodge incomplete vehicle 1981–2002,Dodge
+591,3B7,Dodge truck 1981–2002,Dodge
+592,3C3,Chrysler brand car 1981–2011,Chrysler
+593,3C3,Chrysler Group (all brands) car (including Fiat) 2012-,Fiat
+594,3C4,Chrysler brand MPV 2001–2005,Chrysler
+595,3C4,Chrysler Group (all brands) MPV (including Fiat) 2012-,Fiat
+596,3C6,Chrysler Group (all brands) truck 2012–,Chrysler
+597,3C7,Chrysler Group (all brands) incomplete vehicle 2012–,Chrysler
+598,3C8,Chrysler brand MPV 2001–2005,Chrysler
+599,3CE,Volvo Buses de Mexico,Volvo
+600,3CZ,Honda SUV,Honda
+601,3D2,Dodge incomplete vehicle 2007–2009,Dodge
+602,3D3,Dodge truck 2006–2009,Dodge
+603,3D4,Dodge SUV 2009–2011,Dodge
+604,3D6,Dodge incomplete vehicle 2003–2011,Dodge
+605,3D7,Dodge truck 2002–2011,Dodge
+606,3E4,Fiat SUV,Fiat
+607,3FA,Ford car,Ford
+608,3FC,Ford stripped chassis made by Ford & IMMSA,Ford
+609,3FE,Ford Mexico,Ford
+610,3FM,Ford MPV/SUV,Ford
+611,3FN,Ford F-650/F-750 made by Blue Diamond Truck Co. (truck),Ford
+612,3FR,Ford F-650/F-750 made by Blue Diamond Truck Co. (incomplete vehicle),Ford
+613,3FT,Ford truck,Ford
+614,3G1,Chevrolet car,Chevrolet
+615,3G2,Pontiac car,Pontiac
+616,3G4,Buick car,Buick
+617,3G5,Buick SUV,Buick
+618,3G7,Pontiac SUV,Pontiac
+619,3GC,Chevrolet truck,Chevrolet
+620,3GK,GMC SUV,GMC
+621,3GN,Chevrolet SUV,Chevrolet
+622,3GP,Honda Prologue EV made by GM,Honda
+623,3GT,GMC truck,GMC
+624,3GY,Cadillac SUV,Cadillac
+625,3H1,Honda motorcycle/UTV,Honda
+626,3H3,"Hyundai de Mexico, S.A. de C.V. for Hyundai Translead (truck trailers)",Hyundai
+627,3HG,Honda Mexico car,Honda
+628,3KP,Kia/Hyundai car made by KMMX,Hyundai
+629,3LN,Lincoln car,Lincoln
+630,3MD,Mazda Mexico car,Mazda
+631,3MF,BMW M car,BMW
+632,3MV,Mazda SUV,Mazda
+633,3MW,BMW car,BMW
+634,3MY,Toyota car made by Mazda de Mexico Vehicle Operation,Mazda
+635,3MZ,Mazda Mexico car,Mazda
+636,3N1,Nissan Mexico car,Nissan
+637,3N6,Nissan Mexico truck & Chevrolet City Express,Chevrolet
+638,3N8,Nissan Mexico MPV,Nissan
+639,3PC,Infiniti SUV made by COMPAS,Infiniti
+640,3TM,Toyota truck made by TMMBC,Toyota
+641,3TY,Toyota truck made by TMMGT,MG
+642,3VV,Volkswagen Mexico SUV,Volkswagen
+643,3VW,Volkswagen Mexico car,Volkswagen
+644,4A3,Mitsubishi Motors car,Mitsubishi
+645,4A4,Mitsubishi Motors SUV,Mitsubishi
+646,4B3,Dodge car made by Diamond-Star Motors factory,Dodge
+647,4B9/038,BYD Coach & Bus LLC,BYD
+648,4C3,Chrysler car made by Diamond-Star Motors factory,Chrysler
+649,4F2,Mazda SUV made by Ford,Ford
+650,4F4,Mazda truck made by Ford,Ford
+651,4G1,Chevrolet Cavalier convertible made by Genasys L.C. – a GM/ASC joint venture,Chevrolet
+652,4G2,Pontiac Sunfire convertible made by Genasys L.C. – a GM/ASC joint venture,Pontiac
+653,4G3,Toyota Cavalier made by GM,Toyota
+654,4GD,WhiteGMC Brigadier 1988–1989 made by GM,GMC
+655,4GD,Opel Sintra,Opel
+656,4GL,Buick incomplete vehicle,Buick
+657,4GT,Isuzu incomplete vehicle built by GM,Isuzu
+658,4JG,Mercedes-Benz SUV,Mercedes
+659,4KB,Chevrolet W-Series incomplete vehicle (gas engine only),Chevrolet
+660,4KD,GMC W-Series incomplete vehicle (gas engine only),GMC
+661,4KL,Isuzu commercial truck built by GM,Isuzu
+662,4N2,Nissan Quest made by Ford,Ford
+663,4NU,Isuzu Ascender made by GM,Isuzu
+664,4P3,Mitsubishi Motors SUV made by Mitsubishi Motor Manufacturing of America 2013–2015 for export only,Mitsubishi
+665,4S1,Isuzu truck made by Subaru Isuzu Automotive,Subaru
+666,4S2,Isuzu SUV made by Subaru Isuzu Automotive,Subaru
+667,4S3,Subaru car,Subaru
+668,4S4,Subaru SUV/MPV,Subaru
+669,4S6,Honda SUV made by Subaru Isuzu Automotive,Honda
+670,4T,Toyota,Toyota
+671,4US,BMW car,BMW
+672,4UZ,Freightliner Custom Chassis Corporation & gas-powered Mitsubishi Fuso trucks assembled by Freightliner Custom Chassis & Thomas Built Buses FS-65 & Saf-T-Liner C2,Mitsubishi
+673,4V1,WhiteGMC truck,GMC
+674,4V2,WhiteGMC incomplete vehicle,GMC
+675,4V3,Volvo truck,Volvo
+676,4V4,Volvo Trucks North America truck,Volvo
+677,4V5,Volvo Trucks North America incomplete vehicle,Volvo
+678,4V6,Volvo truck,Volvo
+679,4VA,Volvo Trucks North America truck,Volvo
+680,4VE,Volvo Trucks North America incomplete vehicle,Volvo
+681,4VG,Volvo Trucks North America truck,Volvo
+682,4VH,Volvo Trucks North America incomplete vehicle,Volvo
+683,4VM,Volvo Trucks North America incomplete vehicle,Volvo
+684,478,Honda ATV,Honda
+685,5BZ,"Nissan ""bus"" (van with more than 3 rows of seats)",Nissan
+686,5FN,Honda MPV/SUV made by Honda Manufacturing of Alabama,Honda
+687,5FP,Honda truck made by Honda Manufacturing of Alabama,Honda
+688,5FR,Acura SUV made by Honda Manufacturing of Alabama,Honda
+689,5GA,Buick MPV/SUV,Buick
+690,5J6,Honda SUV made by Honda of America Mfg. in Ohio,Honda
+691,5J8,Acura SUV made by Honda of America Mfg. in Ohio,Honda
+692,5KB,Honda car made by Honda Manufacturing of Alabama,Honda
+693,5L1,Lincoln SUV - Limousine (2004–2009),Lincoln
+694,5LD,Ford & Lincoln incomplete vehicle – limousine (2010–2014),Ford
+695,5LM,Lincoln SUV,Lincoln
+696,5LT,Lincoln truck,Lincoln
+697,5N1,Nissan & Infiniti SUV,Nissan
+698,5N3,Infiniti SUV,Infiniti
+699,5NM,Hyundai SUV made by HMMA,Hyundai
+700,5NP,Hyundai car made by HMMA,Hyundai
+701,5NT,Hyundai truck made by HMMA,Hyundai
+702,5SA,Suzuki ATV,Suzuki
+703,5T,Toyota USA - trucks,Toyota
+704,5TB,Toyota truck made by TMMI,Toyota
+705,5TD,Toyota MPV/SUV made by TMMI,Toyota
+706,5TE,Toyota truck made by NUMMI,Toyota
+707,5TF,Toyota truck made by TMMTX,Toyota
+708,5UM,BMW M car,BMW
+709,5UX,BMW SUV,BMW
+710,5XX,Kia car made by KMMG,MG
+711,5XY,Kia/Hyundai SUV made by KMMG,MG
+712,5Y2,Pontiac Vibe made by NUMMI,Pontiac
+713,5YF,Toyota car made by TMMMS,Toyota
+714,5YJ,"Tesla, Inc. passenger car (only used for US-built Model S and Model 3 starting from Nov, 1st 2021)",Tesla
+715,5YM,BMW M SUV,BMW
+716,5Z6,Suzuki truck made by Nissan,Nissan
+717,54D,Isuzu & Chevrolet commercial trucks built by Spartan Motors/The Shyft Group,Chevrolet
+718,55S,Mercedes-Benz car,Mercedes
+719,58A,Lexus car made by TMMK (Lexus ES),Lexus
+720,6F1,Ford,Ford
+721,6F4,Nissan Motor Company Australia,Nissan
+722,6FP,Ford Australia,Ford
+723,6G1,General Motors-Holden (post Nov 2002) & Chevrolet,Chevrolet
+724,6G2,Pontiac Australia (GTO & G8),Pontiac
+725,6G3,General Motors Chevrolet 2014-2017,Chevrolet
+726,6MM,Mitsubishi Motors Australia,Mitsubishi
+727,6T1,Toyota Motor Corporation Australia,Toyota
+728,7A1,Mitsubishi New Zealand,Mitsubishi
+729,7A3,Honda New Zealand,Honda
+730,7A4,Toyota New Zealand,Toyota
+731,7A5,Ford New Zealand,Ford
+732,7A7,Nissan New Zealand,Nissan
+733,7FA,Honda SUV made by Honda Manufacturing of Indiana,Honda
+734,7GZ,GMC incomplete vehicles made by Navistar International,GMC
+735,7G2,"Tesla, Inc. truck (used for Nevada-built Semi Trucks & Texas-built Cybertruck)",Tesla
+736,7JR,Volvo Cars passenger car,Volvo
+737,7MM,Mazda SUV made by MTMUS (Mazda-Toyota Joint Venture),Mazda
+738,7MU,Toyota SUV made by MTMUS (Mazda-Toyota Joint Venture),Mazda
+739,7SA,"Tesla, Inc. (US-built MPVs (e.g. Model X, Model Y))",Tesla
+740,7SV,Toyota SUV made by TMMTX,Toyota
+741,8AC,Mercedes Benz vans (for South America),Mercedes
+742,8AD,Peugeot Argentina,Peugeot
+743,8AE,Peugeot van,Peugeot
+744,8AF,Ford Argentina,Ford
+745,8AG,Chevrolet Argentina,Chevrolet
+746,8AJ,Toyota Argentina,Toyota
+747,8AK,Suzuki Argentina,Suzuki
+748,8AN,Nissan Argentina,Nissan
+749,8AP,Fiat Argentina,Fiat
+750,8AW,Volkswagen Argentina,Volkswagen
+751,8A1,Renault Argentina,Renault
+752,8BN,Mercedes-Benz incomplete vehicle (North America),Mercedes
+753,8BR,"Mercedes-Benz ""bus"" (van with more than 3 rows of seats) (North America)",Mercedes
+754,8BT,Mercedes-Benz MPV (van with 2 or 3 rows of seats) (North America),Mercedes
+755,8BU,Mercedes-Benz truck (cargo van with 1 row of seats) (North America),Mercedes
+756,8CH,Honda motorcycle,Honda
+757,8C3,Honda car/SUV,Honda
+758,8G1,Automotores Franco Chilena S.A. Renault,Renault
+759,8GD,Automotores Franco Chilena S.A. Peugeot,Peugeot
+760,8GG,Chevrolet Chile,Chevrolet
+761,8LD,General Motors OBB - Chevrolet Ecuador,Chevrolet
+762,8LF,Maresa (Mazda),Mazda
+763,8LG,Aymesa (Hyundai Motor & Kia),Hyundai
+764,9BD,Fiat Brazil,Fiat
+765,9BF,Ford Brazil,Ford
+766,9BG,Chevrolet Brazil,Chevrolet
+767,9BH,Hyundai Motor Brasil,Hyundai
+768,9BM,Mercedes-Benz Brazil car & SUV & commercial truck,Mercedes
+769,9BR,Toyota Brazil,Toyota
+770,9BV,Volvo Trucks,Volvo
+771,9BW,Volkswagen Brazil,Volkswagen
+772,9C2,Honda Motorcycles,Honda
+773,9CD,Suzuki (motorcycles) assembled by J. Toledo Motos do Brasil,Suzuki
+774,9DW,Kenworth & Peterbilt trucks made by Volkswagen do Brasil,Volkswagen
+775,936,Peugeot Brazil,Peugeot
+776,937,Dodge,Dodge
+777,93C,Chevrolet SUV (Mexico),Chevrolet
+778,93H,Honda Brazil car/SUV,Honda
+779,93K,Volvo Trucks,Volvo
+780,93R,Toyota Brazil,Toyota
+781,93U,Audi Brazil 1999–2006,Audi
+782,93W,Fiat Ducato made by Iveco 2000–2016,Fiat
+783,93X,Souza Ramos – Mitsubishi Motors / Suzuki Jimny,Ram
+784,93Y,Renault Brazil,Renault
+785,94D,Nissan Brazil,Nissan
+786,95P,CAOA Hyundai & CAOA Chery,Chery
+787,95V,BMW motorcycles assembled by Dafra Motos 2009–2016,BMW
+788,988,Jeep and Fiat (made at the Goiana plant),Fiat
+789,98M,BMW car/SUV,BMW
+790,98R,Chery,Chery
+791,99A,Audi 2016-,Audi
+792,99J,Jaguar Land Rover,Land Rover
+793,99L,BYD,BYD
+794,99Z,BMW Motorrad (Motorcycle assembled by BMW 2017-),BMW
+795,9FB,Renault Colombia (Sofasa),Renault
+796,9FC,Compañía Colombiana Automotriz S.A. (Mazda),Mazda
+797,9GA,Chevrolet Colombia (GM Colmotores S.A.),Chevrolet
+798,9UJ,Chery assembled by Chery Socma S.A. (Uruguay),Chery
+799,9UW,Kia made by Nordex S.A.,Kia
+800,9V7,Citroen made by Nordex S.A.,Citroen
+801,9V8,Peugeot made by Nordex S.A.,Peugeot
