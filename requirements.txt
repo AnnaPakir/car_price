@@ -5,3 +5,5 @@ scikit-learn==1.2.2
 lightgbm==4.3.0 
 protobuf==3.20.1
 click==8.0.0
+nbformat v5.10.4 
+nbconvert v7.16.1
